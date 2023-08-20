@@ -1,0 +1,3 @@
+# learning-node
+
+this is my personal learning node journey...
